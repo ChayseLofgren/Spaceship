@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81d48731-c2e6-43e4-b5a0-e07e17a0da4e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zEZvMySznI2xR1XtvFyf6HbMpu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Code/Projects/Java/Drug Tools" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="692" y="759" key="FileChooserDialogImpl" timestamp="1633716053791">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="692" y="759" key="FileChooserDialogImpl/0.0.3840.2120/3840.8.3840.2120@0.0.3840.2120" timestamp="1633716053791" />
+    <state x="317" y="533" key="SettingsEditor" timestamp="1633715975866">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="317" y="533" key="SettingsEditor/0.0.3840.2120/3840.8.3840.2120@0.0.3840.2120" timestamp="1633715975866" />
+    <state x="622" y="594" key="new project wizard" timestamp="1633716633502">
+      <screen x="0" y="0" width="3840" height="2120" />
+    </state>
+    <state x="622" y="594" key="new project wizard/0.0.3840.2120/3840.8.3840.2120@0.0.3840.2120" timestamp="1633716633502" />
+  </component>
+</project>
